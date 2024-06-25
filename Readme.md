@@ -11,8 +11,6 @@ This is the backend for the Pokedex application. It provides APIs for user authe
 - [API Endpoints](#api-endpoints)
 - [Environment Variables](#environment-variables)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Tech Stack
 
